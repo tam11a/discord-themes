@@ -97,7 +97,7 @@ body {
   /* background and dark colors */
   --bg-1: hsla(0, 0%, 18%, 1); /* dark buttons when clicked */
   --bg-2: hsla(0, 0%, 12%, 1); /* dark buttons */
-  --bg-3: hsla(0, 0%, 0%, 1); /* spacing, secondary elements */
+  --bg-3: rgb(8, 6, 6); /* spacing, secondary elements */
   --bg-4: hsla(0, 0%, 0%, 1); /* main background color */
   --hover: hsla(16, 96%, 51%, 0.1); /* channels and buttons when hovered */
   --active: hsla(
